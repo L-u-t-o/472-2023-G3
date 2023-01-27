@@ -41,7 +41,7 @@ for a in authors:
         authorsUnique.append(a)
 
 # create cmap array of floats for each author
-cmap = matplotlib.cm.get_cmap('rainbow')
+cmap = matplotlib.cm.get_cmap('tab20')
 colorsList = []
 norm = colors.Normalize(0, len(authorsUnique) - 1)
 for a in authors:
