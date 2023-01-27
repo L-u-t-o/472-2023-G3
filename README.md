@@ -14,3 +14,4 @@ Erik Ramsey	ramsee3@unlv.nevada.edu	itserik#9197
 Erick Serrano	serrae4@unlv.nevada.edu	eserrano125#7558
 David Weaver	weaved3@unlv.nevada.edu	Evsy#6822
 Janeen Sudiacal	sudiacal@unlv.nevada.edu	ninnichigo#0849
+Cody Wine winec1@unlv.nevada.edu cody#3158
