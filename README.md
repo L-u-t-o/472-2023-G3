@@ -4,14 +4,14 @@
 
 # Names	Email	Discord-ID
 
-Chris Catechis	Catecc1@unlv.Nevada.edu	CivBuilder
-Angel Quintanilla	quinta17@unlv.nevada.edu	Aq6476#6377
-Avery Nguyen	nguyea26@unlv.nevada.edu	Akummi
-Adam Velardi-Bean	velardib@unlv.nevada.edu	adamantisaurus#4992
-Miguel Baniqued	baniqm1@unlv.nevada.edu	UberLyft#1459
-Jonas Snell	snellj2@unlv.nevada.edu	Shrumia#0600
-Erik Ramsey	ramsee3@unlv.nevada.edu	itserik#9197
-Erick Serrano	serrae4@unlv.nevada.edu	eserrano125#7558
-David Weaver	weaved3@unlv.nevada.edu	Evsy#6822
-Janeen Sudiacal	sudiacal@unlv.nevada.edu	ninnichigo#0849
-Cody Wine winec1@unlv.nevada.edu cody#3158
+Anthony Deleon	deleoa5@unlv.nevada.edu	Aizawa#1337
+Conner Weiss	weissc2@unlv.nevada.edu	Conner Weiss#8861
+Cody Nguyen	nguyec15@unlv.nevada.edu	Proxhi#5186
+Cody Wine	winec1@unlv.nevada.edu	Cody#3158
+Krisada Sinamkam	sinamkam@unlv.nevada.edu	Moss#1160
+Calvin Brooks	brookc6@unlv.nevada.edu	Big Coolie#5594
+Devyn Gilliam	gillid5@unlv.nevada.edu	Tyrant@1237
+Angelica Flores	florea32@unlv.nevada.edu	angelica#8396
+Dashtine Layson	layson@unlv.nevada.edu	Dash#0910
+Garett Pascual-Folster	pascualf@unlv.nevada.edu	TrueMO0#2408
+Gus Esplin	esplig1@unlv.nevada.edu	GusEsplin#2473
